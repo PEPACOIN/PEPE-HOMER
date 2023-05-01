@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'vintage-school';
+					src: url('101VINTAGE-SCHOOL.woff2') format('woff2'),
+						url('101VINTAGE-SCHOOL.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.vintage-school{font-family: 'vintage-school' !important;}
+
+		
